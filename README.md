@@ -18,5 +18,5 @@ Thinking about my thesis.
 ## 📚 Relevant Projects
 
 #### - A Machine Learning Approach to Skin Cancer Detection: CNN vs SVM 
-#### - Ticketing NLP Analysis: Topic Modeling & Priority Classification
+#### - Support Tickets Analysis: Topic Modeling & Priority Classification
 
