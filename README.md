@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Michele Daconto
+# 👋 Welcome
 
 🎓 **Data Science Student** @ Copenhagen Business School
   
