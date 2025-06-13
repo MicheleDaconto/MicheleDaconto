@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Michele Daconto
 
-🎓 **Data Science Student** at [Copenhagen Business School (CBS)]
+🎓 **Data Science Student** @ Copenhagen Business School
   
 💡 *Focused on turning data into strategy*
 
 
-## 👨🏻‍💻 About Me
+### About Me
 
 Reliable and calm, can work both indipendently and within a team. 
 
 
-## 👀 Currently 
+### Currently 
 
 Thinking about my thesis.
 
