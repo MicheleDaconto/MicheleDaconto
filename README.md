@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Michele Daconto
 
-<!--
-**MicheleDaconto/MicheleDaconto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Student** at [Copenhagen Business School (CBS)]
+  
+💡 *Focused on turning data into strategy*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me
+
+Reliable and calm, can work both indipendently and within a team. 
+
+---
+
+## 👀 Currently 
+
+Thinking about my thesis.
+
+---
+
+## 📚 Relevant Projects
+
+#### A Machine Learning Approach to Skin Cancer Detection: CNN vs SVM 
+#### Ticketing NLP Analysis: Topic Modeling & Priority Classification
+
+---
