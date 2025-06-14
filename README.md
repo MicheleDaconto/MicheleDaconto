@@ -2,8 +2,6 @@
 
 🎓 **Data Science Student** @ Copenhagen Business School
   
-💡 *Focused on turning data into strategy*
-
 
 ### About Me
 
