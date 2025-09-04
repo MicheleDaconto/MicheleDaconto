@@ -7,7 +7,7 @@
 
 Reliable and calm, can work both indipendently and within a team. 
 
-### Core Competencies
+### Core Skills
 - Python
 - SQL
 - Tableau
