@@ -3,7 +3,7 @@
 🎓 **Data Science Student** @ Copenhagen Business School
   
 
-## 👤 About Me
+## 🧑‍💼 About Me
 
 Reliable and calm, can work both indipendently and within a team. 
 
