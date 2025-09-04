@@ -6,6 +6,7 @@
 ### About Me
 
 Reliable and calm, can work both indipendently and within a team. 
+
 Proficient in Python, SQL, Tableau, Power BI, R.
 
 
