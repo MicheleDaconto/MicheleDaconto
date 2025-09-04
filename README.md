@@ -10,7 +10,7 @@ Reliable and calm, can work both indipendently and within a team.
 
 ### Currently 
 
-Thinking about my thesis.
+Attending final courses in National Taiwan University while thinking about my thesis.
 
 
 ## 📚 Relevant Projects
