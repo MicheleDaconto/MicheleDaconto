@@ -17,7 +17,7 @@ Reliable and calm, can work both indipendently and within a team.
 
 ### Currently 
 
-Attending final courses in exchange at @ National Taiwan University while thinking about my thesis.
+Attending final courses in exchange @ National Taiwan University while thinking about my thesis.
 
 
 ## 📚 Relevant Projects
