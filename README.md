@@ -22,7 +22,7 @@ Attending final courses in exchange @ *National Taiwan University* while thinkin
 
 ## 📚 Relevant Projects
 
-#### - A Machine Learning Approach to Skin Cancer Detection: CNN vs SVM 
 #### - Support Tickets Analysis: Topic Modeling & Priority Classification
 #### - Assessing EU Performance Toward Fit for 55: A Predictive Time Series Approach
+#### - A Machine Learning Approach to Skin Cancer Detection: CNN vs SVM 
 
