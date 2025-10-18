@@ -5,7 +5,7 @@
 
 ## 🧑‍💼 About Me
 
-Reliable and calm, can work both indipendently and within a team. 
+Analytical and reliable, can work both indipendently and within a team. 
 
 ### Core Skills
 - Python
