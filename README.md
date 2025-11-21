@@ -5,14 +5,14 @@
 
 ## 🧑‍💼 About Me
 
-Analytical and reliable, can work both indipendently and within a team. 
+Analytical and diligent. 
 
 ### Core Skills
 - Python
 - SQL
 - Tableau
-- Power BI
 - R
+- Power BI
 
 
 ### Currently 
