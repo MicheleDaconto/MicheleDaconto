@@ -5,10 +5,11 @@
 
 ## 🧑‍💼 About Me
 
-Analytical and diligent. 
+Analytical and collaborative. 
+I particularly enjoy working with ML models and Predictive tasks.
 
 ### Core Skills
-- Python
+- Python (*Tensorflow, scikit-learn)
 - SQL
 - Tableau
 - R
