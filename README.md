@@ -17,7 +17,7 @@ Strong interest in ML models and predictive tasks.
 
 ### Currently 
 
-Attending final courses in exchange @ *National Taiwan University* while thinking about my thesis.
+Looking for an internship while thinking about my thesis.
 
 
 ## 📚 Relevant Projects
