@@ -5,7 +5,7 @@
 
 ## 🧑‍💼 About Me
 
-Analytical and collaborative, with strong interest in ML models and predictive tasks.
+Strong interest in ML models and predictive tasks.
 
 ### Core Skills
 - Python (*Tensorflow, scikit-learn*)
