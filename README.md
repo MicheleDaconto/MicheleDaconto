@@ -5,7 +5,7 @@
 
 ## 🧑‍💼 About Me
 
-Strong interest in ML models and predictive tasks.
+Strong interest in predictive tasks, ML models and data analysis in general.
 
 ### Core Skills
 - Python (*Tensorflow, scikit-learn*)
