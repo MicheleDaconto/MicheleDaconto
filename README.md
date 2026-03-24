@@ -17,7 +17,7 @@ Strong interest in predictive tasks, ML models and data analysis in general.
 
 ### Currently 
 
-Looking for an internship while thinking about my thesis.
+Thinking about my thesis while interning @Accenture
 
 
 ## 📚 Relevant Projects
