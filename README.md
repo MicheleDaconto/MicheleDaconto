@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-🎓 **Data Science Student** @ *Copenhagen Business School*
+🎓 **Data Science Student** @ *Copenhagen Business School* /n
 💼 **Data Analyst Intern** @ *Arrive*
 
 ## 🧑‍💼 About Me
